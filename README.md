@@ -28,7 +28,7 @@
 false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorProvider`.
 * **Hình ảnh minh họa Giao diện:**
 
-![Giao diện chính Bài 1](docs/bai_1(main))
+![Giao diện chính Bài 1](docs/<img width="887" height="560" alt="bai_1(main)" src="https://github.com/user-attachments/assets/fb8b2c2d-7e16-4bfe-a8af-0059574ec9f6" />)
 ![Bắt lỗi Validation Bài 1]
 <img width="884" height="557" alt="Screenshot 2026-10-23 183742" src="https://github.com/user-attachments/assets/5f81f702-2d1e-4531-9540-a4ae24500231" />
 
